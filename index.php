@@ -9,7 +9,7 @@
     <link rel="shortcut icon" href="bootstrap-master/assets/ico/favicon.ico">
     <link href="sticky-footer.css" rel="stylesheet">
 
-    <title>Comparo</title>
+    <title>FaceMash</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap-master/dist/css/bootstrap.min.css" rel="stylesheet">
